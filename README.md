@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @passioneffort
-- 👀 I’m interested in Software engineering & AI development.
+- 👀 I’m interested in Software & AI development.
 - 🌱 
 - 💞️ 
 - 📫 
